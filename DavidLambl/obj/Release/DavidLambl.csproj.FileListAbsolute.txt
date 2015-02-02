@@ -67,3 +67,42 @@ C:\Users\David\Documents\Visual Studio 2013\Projects\DavidLambl\DavidLambl\bin\S
 C:\Users\David\Documents\Visual Studio 2013\Projects\DavidLambl\DavidLambl\bin\System.Net.Http.Formatting.xml
 C:\Users\David\Documents\Visual Studio 2013\Projects\DavidLambl\DavidLambl\bin\System.Web.Http.xml
 C:\Users\David\Documents\Visual Studio 2013\Projects\DavidLambl\DavidLambl\bin\System.Web.Http.WebHost.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\DavidLambl.dll.config
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\DavidLambl.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\DavidLambl.pdb
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\Antlr3.Runtime.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\EntityFramework.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\EntityFramework.SqlServer.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\Newtonsoft.Json.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Net.Http.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Net.Http.Formatting.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Net.Http.WebRequest.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Http.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Http.WebHost.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Mvc.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Optimization.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Providers.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Razor.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.WebPages.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\WebGrease.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\EntityFramework.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\EntityFramework.SqlServer.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\Newtonsoft.Json.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Net.Http.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Net.Http.Formatting.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Net.Http.WebRequest.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Http.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Http.WebHost.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Providers.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Mvc.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.Razor.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.WebPages.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\obj\Release\DavidLambl.csprojResolveAssemblyReference.cache
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\obj\Release\DavidLambl.dll
+C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\obj\Release\DavidLambl.pdb
