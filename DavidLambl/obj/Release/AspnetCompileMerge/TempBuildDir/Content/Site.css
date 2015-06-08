@@ -1,25 +1,6 @@
 ﻿
-body {
-    font-size: .85em;
-    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
-    color: #ffffff;
-    background-color: #c8b1b1;
-}
-
-body a {
-    color: inherit;
-    font-size: small;
-}
-
-header, footer, nav, section {
-    display: block;
-}
-
-ul {
-    padding: 0;
-    list-style: none;
-    margin-top: 0px;
-    margin-bottom: 0px;
+.thankYou {
+    margin-top: .8em;
 }
 
 /* Styles for basic forms
