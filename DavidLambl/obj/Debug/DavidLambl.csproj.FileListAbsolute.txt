@@ -145,3 +145,4 @@ C:\Users\David\Source\Workspaces\Workspace\DavidLambl\DavidLambl\obj\Debug\David
 \\psf\Home\DavidLambl\DavidLambl\obj\Debug\DavidLambl.csprojResolveAssemblyReference.cache
 \\psf\Home\DavidLambl\DavidLambl\obj\Debug\DavidLambl.dll
 \\psf\Home\DavidLambl\DavidLambl\obj\Debug\DavidLambl.pdb
+\\psf\Home\DavidLambl\DavidLambl\bin\Content\bootstrap.css
