@@ -195,7 +195,6 @@ C:\DavidLambl\DavidLambl\obj\Release\DavidLambl.csproj.App.config
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\EntityFramework.dll
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\EntityFramework.SqlServer.dll
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\Microsoft.Web.Infrastructure.dll
-\\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\Newtonsoft.Json.dll
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\System.Net.Http.Extensions.dll
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\System.Net.Http.Formatting.dll
@@ -228,3 +227,7 @@ C:\DavidLambl\DavidLambl\obj\Release\DavidLambl.csproj.App.config
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\obj\Release\DavidLambl.csprojResolveAssemblyReference.cache
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\obj\Release\DavidLambl.dll
 \\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\obj\Release\DavidLambl.pdb
+\\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\System.Web.Helpers.dll
+\\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\Antlr3.Runtime.pdb
+\\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\System.Web.Helpers.xml
+\\psf\Home\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\System.Web.Optimization.xml
