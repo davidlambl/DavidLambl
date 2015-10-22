@@ -275,3 +275,4 @@ C:\Users\davidlambl\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\obj\Relea
 C:\Users\davidlambl\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\obj\Release\DavidLambl.csprojResolveAssemblyReference.cache
 C:\Users\davidlambl\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\obj\Release\DavidLambl.dll
 C:\Users\davidlambl\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\obj\Release\DavidLambl.pdb
+C:\Users\davidlambl\Documents\GitHubVisualStudio\DavidLambl\DavidLambl\bin\Content\images\20150801-Beaver_(Lambl)-244.jpg
