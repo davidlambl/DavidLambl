@@ -3,6 +3,17 @@
     margin-top: .8em;
 }
 
+.basic-template {
+  padding-top: 50px;
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.pad-image-bottom {
+  margin-bottom: 40px;
+}
+
+
 /* Styles for basic forms
 -----------------------------------------------------------*/
 fieldset {
